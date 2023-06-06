@@ -7,7 +7,8 @@ public class HelloWorld {
 	
 	public void existingMethod() {
 		int a = 14;
-		int c = b + a;
+		int c = 0;
+		c = b + a;
 
 
 	}
