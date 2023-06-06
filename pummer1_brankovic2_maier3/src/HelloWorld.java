@@ -11,5 +11,10 @@ public class HelloWorld {
 
 
 	}
+	
+	public int exec() {
+		return 5*5;
+	}
+	
 
 }
